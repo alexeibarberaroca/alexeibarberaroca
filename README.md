@@ -83,5 +83,3 @@
 
 - **LinkedIn:** [alexei-barbera-roca](https://www.linkedin.com/in/alexei-barbera-roca)
 - **Relative Developers:** [relativedevelopers.com](https://relativedevelopers.com/)
-
-<p align="center"><em>"Price is what you pay, value is what you get" — Warren Buffett</em></p>
