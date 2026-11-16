@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alexei-barbera-roca">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/alexeibarberaroca">LinkedIn</a> ·
   <a href="https://relativedevelopers.com/">Relative Developers</a>
 </p>
 
@@ -81,5 +81,5 @@
 
 ## 📫 Contacto
 
-- **LinkedIn:** [alexei-barbera-roca](https://www.linkedin.com/in/alexei-barbera-roca)
+- **LinkedIn:** [alexeibarberaroca](https://www.linkedin.com/in/alexeibarberaroca)
 - **Relative Developers:** [relativedevelopers.com](https://relativedevelopers.com/)
