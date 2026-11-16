@@ -74,8 +74,8 @@
 
 | Proyecto | Qué es |
 |---|---|
-| **[QuarksMolecule](https://github.com/alexeibarbera/QuarksMolecule)** | Propiedades físicas y químicas de una molécula, hasta la masa de sus quarks, en **PL/SQL** sobre Oracle. |
-| **[LinuxCommandAutomation](https://github.com/alexeibarbera/LinuxCommandAutomation)** | Scripts en **Bash** para automatizar la administración de sistemas Linux. |
+| **[QuarksMolecule](https://github.com/alexeibarberaroca/QuarksMolecule)** | Propiedades físicas y químicas de una molécula, hasta la masa de sus quarks, en **PL/SQL** sobre Oracle. |
+| **[LinuxCommandAutomation](https://github.com/alexeibarberaroca/LinuxCommandAutomation)** | Scripts en **Bash** para automatizar la administración de sistemas Linux. |
 
 ---
 
